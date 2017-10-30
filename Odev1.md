@@ -8,4 +8,21 @@ Sınıf | Öğrenci İsmi  | Numara
 # Paper Vice
 ## Özet
 
+Iypt 2016 13. Soru 
+   Yapılacaklar
+Öncelikle burada defterin ayrılmamasına etki eden faktörlerden birinin yaprak sayısı ve kağıt cinsi olduğunu düşünüyoruz (yaptığımız araştırma ve hareket kuralları nedeniyle)
+Bu nedenle 3 ayrı deney yapacağız
+1. 20 sayfa aralıklarla normal defter kağıdı 
+2. 40 sayfa aralıklarla normal defter kağıdı
+3. 20 sayfa aralıklarla saman kağıdı
+
+Bunlar sonucunda ortaya çıkacak sonuç bize etmenleri ve nedenleri açıklayacaktır 
+
+
+
+
 ## Kaynaklar
+Yararlandığım kaynaklar 
+Stackexchange.com
+Quora 
+Ve bana github konusunda PC uzmanlığını konuşturarak yardımcı olan arkadaşım Yusuf Talha Çıkışır 
