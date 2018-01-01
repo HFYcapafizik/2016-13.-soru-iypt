@@ -1,2 +1,0 @@
-# Paper Vice
-## Deney Raporu
