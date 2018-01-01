@@ -31,4 +31,4 @@ Bunlar sonucunda ortaya çıkacak sonuç bize etmenleri ve nedenleri açıklayac
 Yararlandığım kaynaklar 
 Stackexchange.com
 Quora 
-Ve bana github konusunda PC uzmanlığını konuşturarak yardımcı olan arkadaşım Yusuf Talha Çıkışır 
+ve bana github konusunda yardımcı olan arkadaşım Yusuf Talha Çıkışır. 
